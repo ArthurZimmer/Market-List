@@ -1,7 +1,7 @@
 # Market-List
 
 <h2>What is it?</h2>
-<p>It is a Inteligent Digital Market List, made to people who wants to abandon the pen and pencil. Is not just it, the app count with a inteligent sistem that sum the total price of your list, and calculate the price of your shopping cart while adding items and cross them of the list.</p>
+<p>It is a mobile development for Android of a Smart Digital Grocery List, made for people who want to abandon paper and pencil. Not only that, the application has an intelligent system that adds the total price of your list, and calculates the price of your shopping cart as you add items and cross them off the list.</p>
 
 <h2>Functionalities</h2>
 <p>Add and remove items of your list</p>
