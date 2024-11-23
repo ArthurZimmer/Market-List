@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarketList</string>
+    <string name="valor_total">Valor da Lista: R$ %.2f</string>
+    <string name="valor_selecionados">Valor no carrinho: R$ %.2f</string>
+</resources>
